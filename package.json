@@ -1,0 +1,19 @@
+{
+  "name": "udemy-javascript",
+  "version": "1.0.0",
+  "description": "Udemy - Understanding the Weird Parts of JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgroff8806/udemy-javascript.git"
+  },
+  "author": "Jason Groff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgroff8806/udemy-javascript/issues"
+  },
+  "homepage": "https://github.com/jgroff8806/udemy-javascript#readme"
+}
