@@ -1,10 +1,9 @@
-function b() {
-	console.log(myVar);
-}
-
 function a() {
-	var myVar = 2;
-	b();
+  function b() {
+    console.log(myVar);
+  }
+
+  b();
 }
 
 var myVar = 1;
